@@ -6,7 +6,7 @@ add_theme_support('menus');
 
 //Добавление <title>:
 add_theme_support( 'title-tag' );
-
+//i love sonich
 
 function aliran_add_scripts() {
 
